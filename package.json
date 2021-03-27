@@ -1,0 +1,34 @@
+{
+  "name": "easy-economy",
+  "version": "0.1.6",
+  "description": "Make a Discord Economy System Easily and Quickly!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mr Discord1",
+  "license": "ISC",
+  "dependencies": {
+    "parse-ms": "^2.1.0",
+    "quickmongo": "^3.0.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "mrdiscord",
+    "mr",
+    "discord1",
+    "mrdiscord1",
+    "economy",
+    "ez-economy",
+    "easy-eco",
+    "ez-eco",
+    "discord economy",
+    "discord eco",
+    "discord",
+    "economy",
+    "eco",
+    "willtda",
+    "will",
+    "tda"
+  ]
+}
