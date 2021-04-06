@@ -1,4 +1,3 @@
-```js
 # Easy Economy
 Easy Economy is a NPM package that lets you create a Discord Economy Quickly and Easily!
 
