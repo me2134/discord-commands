@@ -4,7 +4,7 @@ Easy Economy is a NPM package that lets you create a Discord Economy Quickly and
 [![NPM](https://nodei.co/npm/easy-economy.png)](https://nodei.co/npm/easy-economy/)
 
 # Tutorial Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xJOc7Nu9sjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Tutorial Video](https://img.youtube.com/vi/xJOc7Nu9sjQ/0.jpg)](https://www.youtube.com/watch?v=xJOc7Nu9sjQ)
 
 # Features
 - 🤖 Beginner Friendly
