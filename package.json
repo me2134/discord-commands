@@ -9,6 +9,7 @@
   "author": "Mr Discord1",
   "license": "ISC",
   "dependencies": {
+    "discord.js": "^12.5.3",
     "parse-ms": "^2.1.0",
     "quickmongo": "^3.0.2"
   },
